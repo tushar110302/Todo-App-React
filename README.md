@@ -1,10 +1,9 @@
-# React + Vite
+# TODO APP
 
 This Todo App uses Local Storage which allows for persistent todos between reloads and the todos are not lost. But they will be lost once the server is restarted.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Try it Out
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone \
+npm install \
+npm run dev
